@@ -10,4 +10,4 @@ thats it, there are no build instructions, if you try to use this thing, thats l
 
 # License 
 
-there is no license, please dont use this 
+there is no license, I made this in 10 minutes, for your sanity dont try to use it 
